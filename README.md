@@ -30,3 +30,5 @@ Chorus-Lapilli is a game similar to TicTacToe with some unique rules. After the 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+--
